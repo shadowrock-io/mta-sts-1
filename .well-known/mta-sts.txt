@@ -1,6 +1,6 @@
 version: STSv1
 mode: testing
-max_age: 604800
-mx: *.googlemail.com
-mx: *.aspmx.l.google.com
 mx: aspmx.l.google.com
+mx: mxa.mailgun.org
+mx: mxb.mailgun.org
+max_age: 604800
